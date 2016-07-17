@@ -1,2 +1,2 @@
-# SpiTechASDK
+# SpiTechADK
 SpiTech's Android Development KIT
